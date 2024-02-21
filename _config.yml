@@ -22,8 +22,8 @@ description: >- # used by seo meta and the atom feed
   Math and Electronics explained without too mucht technical jargon but with a more intuition focused approach.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://catatafish.xyz"
-
+# url: "https://catatafish.xyz"
+url: "https://catatafish132.github.io/Website"
 github:
   username: CatataFish132 # change to your github username
 
