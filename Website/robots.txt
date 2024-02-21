@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://catatafish132.github.io/Website/https://catatafish132.github.io/Website/sitemap.xml
+Sitemap: https://catatafish132.xyz/https://catatafish132.xyz/sitemap.xml
